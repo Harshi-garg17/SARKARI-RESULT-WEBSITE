@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.header{
+    width:1010px;
+    height: 175px;
+    background-color: #ab183d;
+    margin: auto;
+}
+.heading1{
+    position: absolute;
+    left: 590px;
+    top:25px;
+    color: white;
+    font-size: 45px;
+}
+.heading2{
+    position: absolute;
+    left: 650px;
+    top:75px;
+    color: white;
+}
+    
+.navbar{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    width: 1010;
+    height: 60px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbardiv{
+    width: 50px;
+    height: 50px;
+    border-right: 2px solid white;
+    align-items: center;
+    padding: 15px;
+     display: flex;
+    /* padding-left: 14px;
+    padding-bottom: 15px; */
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+
+.sarkariresulttext{
+/* width: 100%; */
+text-align: center;
+font-size: 0.89em;
+}
+
+.sarkariresulttext .red{
+ color: red;
+ font-size: 0.89;
+}
+
+.sarkariresulttext .marquee{
+    font-size: 0.80em ;
+}
+
+h2 a{
+    color: blue;
+}
