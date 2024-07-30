@@ -49,6 +49,8 @@
 }
 .latest-job{
     border: 1px solid black;
+    text-align: center;
+    height: 600px;
 }
 
 .color{
